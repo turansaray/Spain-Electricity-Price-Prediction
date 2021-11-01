@@ -13,34 +13,35 @@ ENTSOE a public portal: https://transparency.entsoe.eu/dashboard/show
 Red Electric España: https://www.esios.ree.es/en/market-and-prices
 
 # Column Meanings
-Time: Datetime index localized to CET
-Generation biomass: biomass generation in MW
-Generation fossil brown coal/lignite: coal/lignite generation in MW
-Generation fossil coal-derived gas: coal gas generation in MW
-Generation fossil gas: gas generation in MW
-Generation fossil hard coal: coal generation in MW
-Generation fossil oil: oil generation in MW
-Generation fossil oil shale: shale oil generation in MW
-Generation fossil peat: peat generation in MW
-Generation geothermal: geothermal generation in MW
-Generation hydro pumped storage aggregated: hydro1 generation in MW
-Generation hydro pumped storage consumption: hydro2 generation in MW
-Generation hydro run-of-river and poundage: hydro3 generation in MW
-Generation hydro water reservoir: hydro4 generation in MW
-Generation marine: sea generation in MW
-Generation nuclear: nuclear generation in MW
-Generation other: other generation in MW
-Generation other renewable: other renewable generation in MW
-Generation solar: solar generation in MW
-Generation waste: waste generation in MW
-Generation wind offshore: wind offshore generation in MW
-Generation wind onshore: wind onshore generation in MW
-Gorecast solar day ahead: forecasted solar generation
-Gorecast wind offshore eday ahead: forecasted offshore wind generation
-Gorecast wind onshore day ahead: forecasted onshore wind generation
-Total load forecast: forecasted electrical demand
-Total load actual: actual electrical demand
-Price day ahead: forecasted price EUR/MWh
-Price actual: price in EUR/MWh
+Time: Datetime index localized to CET \n
+Generation biomass: biomass generation in MW \n
+Generation fossil brown coal/lignite: coal/lignite generation in MW \n
+Generation fossil coal-derived gas: coal gas generation in MW \n
+Generation fossil gas: gas generation in MW \n
+Generation fossil hard coal: coal generation in MW \n
+Generation fossil oil: oil generation in MW \n
+Generation fossil oil shale: shale oil generation in MW \n
+Generation fossil peat: peat generation in MW \n
+Generation geothermal: geothermal generation in MW \n
+Generation hydro pumped storage aggregated: hydro1 generation in MW \n
+Generation hydro pumped storage consumption: hydro2 generation in MW \n
+Generation hydro run-of-river and poundage: hydro3 generation in MW \n
+Generation hydro water reservoir: hydro4 generation in MW \n
+Generation marine: sea generation in MW \n
+Generation nuclear: nuclear generation in MW \n
+Generation other: other generation in MW \n
+Generation other renewable: other renewable generation in MW \n
+Generation solar: solar generation in MW \n
+Generation waste: waste generation in MW \n
+Generation wind offshore: wind offshore generation in MW \n
+Generation wind onshore: wind onshore generation in MW \n
+Gorecast solar day ahead: forecasted solar generation \n
+Gorecast wind offshore eday ahead: forecasted offshore wind generation \n
+Gorecast wind onshore day ahead: forecasted onshore wind generation \n
+Total load forecast: forecasted electrical demand \n
+Total load actual: actual electrical demand \n
+Price day ahead: forecasted price EUR/MWh \n
+Price actual: price in EUR/MWh \n
+
 
 The information above directly taken from the dataset providers.
